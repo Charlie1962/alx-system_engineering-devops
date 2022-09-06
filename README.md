@@ -1,2 +1,1 @@
-#!/bin/bash
-Still a test
+Shell variables expansions task
